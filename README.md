@@ -14,4 +14,4 @@ La temática de la página es un **e-commerce** dedicado a la venta de aparatos 
 
 - HTML5 (semántico)
 - CSS
-- Preparado paraJavaScript
+- Preparado para JavaScript
